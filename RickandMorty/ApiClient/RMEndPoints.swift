@@ -8,7 +8,7 @@
 import Foundation
 
 /// Represent Unique Api Endpoints
-@frozen enum RMEndPoints:String{
+@frozen enum RMEndPoint:String{
     /// EndPoint to get Character info
     case character
     /// EndPoint to get Location info
